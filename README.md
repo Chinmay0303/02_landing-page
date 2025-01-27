@@ -13,3 +13,5 @@ Photo by Pixabay from Pexels: https://www.pexels.com/photo/assorted-color-kitten
 Photo by FUTURE KIIID from Pexels: https://www.pexels.com/photo/photo-of-elephants-on-grass-3551498/
 
 Photo by Aleksey Kuprikov from Pexels: https://www.pexels.com/photo/monkeys-sitting-on-rock-3493730/
+
+Photo by Alex Andrews: https://www.pexels.com/photo/photo-of-fox-sitting-on-ground-2295744/
