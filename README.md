@@ -1,8 +1,17 @@
 # 02_landing-page
 
-Trying to create a landing page using flexbox
+Trying to create a landing page using flexbox.
 First I will create a basic structure of the page using HTML
 then I will try to style each section of the page one by one.
+
+I have created a basic structure for the page in index.html.
+But I have a confusion regarding which element to use for texts. At some places I have used <p> tags, at others I have used <div> tags. I don't know if I have to change this during styling with CSS.
+
+Also I will have to edit the index.html again as required during stying: Creating new containers, assigning classes, etc.
+
+![image1](img/Screenshot_2025-01-27_22-10-30.png)
+
+![image2](img/Screenshot_2025-01-27_22-11-09.png)
 
 Image credits:
 
