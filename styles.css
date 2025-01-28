@@ -65,3 +65,13 @@
 .head-content{
     display: flex;
 }
+
+.head-content .content{
+    flex-basis: 40%;
+}
+
+.head-content img{
+    flex-grow: 1;
+    max-height: 250px;
+    min-width: 300px;
+}
