@@ -69,6 +69,11 @@
 
 .head-content .content{
     flex-basis: 40%;
+
+    display: flex;
+    flex-direction: column;
+    align-items: self-start;
+    gap: 16px;
 }
 
 .head-content img{
