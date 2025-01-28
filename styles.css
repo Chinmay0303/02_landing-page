@@ -34,6 +34,12 @@
     font-size: 24px;
 }
 
+.header-links a{
+    font-size: 18px;
+    color: #E5E7EB;
+    text-decoration: none;
+}
+
 .head-content{
     display: flex;
 }
