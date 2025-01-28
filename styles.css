@@ -17,3 +17,8 @@
     font-weight: lighter;
     font-style: italic;
 }
+
+.head-container{
+    display: flex;
+    flex-direction: column;
+}
