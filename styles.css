@@ -46,6 +46,11 @@
     text-decoration: none;
 }
 
+.hero-main-text{
+    font-size: 48px;
+    font-weight: 900;
+}
+
 .head-content{
     display: flex;
 }
