@@ -64,6 +64,7 @@
 
 .head-content{
     display: flex;
+    gap: 48px;
 }
 
 .head-content .content{
