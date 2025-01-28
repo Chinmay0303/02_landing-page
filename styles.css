@@ -39,7 +39,8 @@
     gap: 24px;
 }
 
-.header-links a{
+.header-links a,
+.hero-secondary-text{
     font-size: 18px;
     color: #E5E7EB;
     text-decoration: none;
