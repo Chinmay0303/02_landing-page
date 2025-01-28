@@ -3,3 +3,9 @@
     margin: 0px;
     box-sizing: border-box;
 }
+
+.head-container,
+.footer{
+    background-color: #1F2937;
+    color: #F9FAF8;
+}
