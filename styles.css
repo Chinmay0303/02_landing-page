@@ -104,3 +104,8 @@
 .img-container{
     display: flex;
 }
+
+.img-container img{
+    height: 175px;
+    width: 175px;
+}
