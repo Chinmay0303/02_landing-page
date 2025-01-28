@@ -6,7 +6,8 @@
 
 .head-container,
 .footer{
-    background-color: #1F2937;
+    /* background-color: #1F2937; */
+    background-color: #000000;
     color: #F9FAF8;
 }
 
