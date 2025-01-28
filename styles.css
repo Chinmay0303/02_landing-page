@@ -111,6 +111,9 @@
 .img-container img{
     height: 175px;
     width: 175px;
+
+    border: 2px solid #000000;
+    border-radius: 10px;
 }
 
 .img-text{
