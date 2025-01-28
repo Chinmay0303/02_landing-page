@@ -34,6 +34,11 @@
     font-size: 24px;
 }
 
+.header-links{
+    display: flex;
+    gap: 24px;
+}
+
 .header-links a{
     font-size: 18px;
     color: #E5E7EB;
