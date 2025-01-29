@@ -122,3 +122,8 @@
 .img-text{
     width: 175px;
 }
+
+.quote-container{
+    display: flex;
+    flex-direction: column;
+}
