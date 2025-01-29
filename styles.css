@@ -165,3 +165,16 @@
 .action-text{
     border: 2px solid black;
 }
+
+.action-main-text{
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.action-secondary-text{
+    color: #E5E7EB;
+}
+
+.sign-up.two{
+    background-color: #3882F6;
+}
