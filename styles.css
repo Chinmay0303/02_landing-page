@@ -145,12 +145,12 @@
 }
 
 .action-container{
-    border: 2px solid red;
+    /* border: 2px solid red; */
     padding: 64px 192px;
 }
 
 .action-content{
-    border: 2px solid gold;
+    /* border: 2px solid gold; */
     padding: 32px 96px;
     
     display: flex;
@@ -162,9 +162,9 @@
     border-radius: 8px;
 }
 
-.action-text{
+/* .action-text{
     border: 2px solid black;
-}
+} */
 
 .action-main-text{
     font-size: 18px;
