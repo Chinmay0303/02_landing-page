@@ -127,6 +127,8 @@
     display: flex;
     justify-content: center;
     align-items: center;
+
+    padding: 72px 0px;
 }
 
 .quote-content{
