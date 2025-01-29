@@ -152,6 +152,10 @@
 .action-content{
     border: 2px solid gold;
     padding: 32px 96px;
+    
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
 }
 
 .action-text{
