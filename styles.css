@@ -143,3 +143,17 @@
     margin-right: 32px;
     margin-top: 8px;
 }
+
+.action-container{
+    border: 2px solid red;
+    padding: 64px 128px;
+}
+
+.action-content{
+    border: 2px solid gold;
+    padding: 32px 96px;
+}
+
+.action-text{
+    border: 2px solid black;
+}
